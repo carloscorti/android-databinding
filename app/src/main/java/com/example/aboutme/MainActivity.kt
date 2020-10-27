@@ -1,22 +1,26 @@
 package com.example.aboutme
 
 import android.content.Context
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.view.inputmethod.InputMethodManager
+import androidx.appcompat.app.AppCompatActivity
+import androidx.databinding.DataBindingUtil
 import com.example.aboutme.databinding.ActivityMainBinding
+
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-//        setContentView(R.layout.activity_main)
-        binding = ActivityMainBinding.inflate(layoutInflater)
-        val view = binding.root
-        setContentView(view)
+//        binding = ActivityMainBinding.inflate(layoutInflater)
 
+//        val view = binding.root
+//        setContentView(view)
+        binding = DataBindingUtil.setContentView(this, R.layout.activity_main)
+
+//
         binding.doneButton.setOnClickListener {
             addNickname(it)
         }
