@@ -2,4 +2,10 @@
     <string name="app_name">AboutMe</string>
     <string name="name">Carli</string>
     <string name="Yellow_star">Yellow Star</string>
+    <string name="bio">Lorem ipsum dolor sit amet.
+\n\nConsectetur adipiscing elit. Etiam non euismod elit, quis pharetra neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent feugiat auctor sem, at efficitur leo molestie sit amet. Morbi ipsum ipsum, convallis at nulla sed, iaculis tristique odio. Praesent ac iaculis nunc. Sed sodales felis quis magna blandit, vitae tristique nisl ornare. Mauris tortor neque, convallis a enim eu, blandit rhoncus massa.
+\n\nCras eget efficitur justo. Mauris vitae sapien eu orci posuere molestie sit amet vel sapien. Pellentesque gravida lorem vel dapibus efficitur. Aenean facilisis leo et arcu malesuada, eu posuere tortor fermentum. Integer in posuere orci, nec faucibus neque. Donec efficitur mauris ipsum, ac aliquet metus tempus id. Mauris tempor ligula lectus, vel blandit est sagittis in. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+\n\nVivamus id maximus magna, ac mollis odio. Ut ut lacinia sapien. Sed blandit hendrerit libero, ut fringilla diam eleifend tincidunt. Mauris in nibh a justo hendrerit feugiat. Vestibulum a quam non leo elementum pretium. Donec fermentum sollicitudin volutpat. Mauris ut erat eu est aliquam cursus et et mi. Aliquam erat volutpat. Integer convallis ante quis elit rutrum fringilla.
+\n\nNulla facilisi. Etiam accumsan, tortor vitae euismod finibus, justo ligula ultrices ante, vehicula condimentum arcu nunc vel justo. Cras blandit felis massa, quis iaculis dolor luctus id. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Phasellus vitae nulla ac ex pellentesque aliquam. In ultrices consectetur volutpat. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis ultrices augue sit amet dui elementum, nec malesuada odio porttitor. Integer quis sodales libero.</string>
+    <string name="scroll_init_image">Init Scroll</string>
 </resources>
