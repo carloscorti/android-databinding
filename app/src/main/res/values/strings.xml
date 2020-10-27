@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">AboutMe</string>
-    <string name="name">Carli</string>
+    <string name="name">Carlos Corti</string>
     <string name="Yellow_star">Yellow Star</string>
     <string name="bio">Lorem ipsum dolor sit amet.
 \n\nConsectetur adipiscing elit. Etiam non euismod elit, quis pharetra neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent feugiat auctor sem, at efficitur leo molestie sit amet. Morbi ipsum ipsum, convallis at nulla sed, iaculis tristique odio. Praesent ac iaculis nunc. Sed sodales felis quis magna blandit, vitae tristique nisl ornare. Mauris tortor neque, convallis a enim eu, blandit rhoncus massa.
@@ -9,4 +9,5 @@
 \n\nNulla facilisi. Etiam accumsan, tortor vitae euismod finibus, justo ligula ultrices ante, vehicula condimentum arcu nunc vel justo. Cras blandit felis massa, quis iaculis dolor luctus id. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Phasellus vitae nulla ac ex pellentesque aliquam. In ultrices consectetur volutpat. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis ultrices augue sit amet dui elementum, nec malesuada odio porttitor. Integer quis sodales libero.</string>
     <string name="scroll_init_image">Init Scroll</string>
     <string name="nickname_hint">What is your Nickname?</string>
+    <string name="button_text">Done</string>
 </resources>
